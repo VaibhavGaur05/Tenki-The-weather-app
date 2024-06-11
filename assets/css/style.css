@@ -134,7 +134,7 @@ body {
   color: var(--on-background);
   font-size: var(--body-3);
   overflow: hidden;
-  height: 200vh;
+  height: 300vh;
 }
 
 :focus-visible{
